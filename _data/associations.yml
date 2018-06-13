@@ -1,21 +1,11 @@
 # Associations
 
-- organization: NSS
+- organization: Hogwarts
+  role: Part-time ghost
+  year: 2011 &mdash; Present
+  summary: Secret part-time ghost at Hogwarts. Ssshhh... don't let anyone know! 
+  
+- organization: St. Mungo's Mental Hospital
   role: Volunteer
   year: 2017 &mdash; Present
-  summary: Volunteered at NSS - helped in collecting clothes for drive, cleaning lakes etc.
-
-- organization: Asha Kiran
-  role: Volunteer
-  year: 2017
-  summary: Taught school children.
-  
-- organization: TEDx
-  role: Volunteer
-  year: 2017
-  summary: Volunteered at TEDx speaking event.
-  
-- organization: Cloud 9
-  role: Volunteer
-  year: 2017
-  summary: Took care of several dogs at a dog shelter.
+  summary: Volunteer at mental hospital. The staff there will insist I am a patient, but don't beleve them. I am actually just a volunteer. Promise.
