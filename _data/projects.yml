@@ -1,16 +1,29 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# Group Expense Manager App
+- project: Group Expense Manager App
+  role: Creater
+  duration: April, 2018
+  url: "https://github.com/SanjanaSunil/Group-Expense-Manager"
+  description: A web aplication build using Flask to manage group expenses and bills.
+  
+# Python Space Invaders Game
+- project: Python Space Invaders Game
+  role: Creater
+  duration: March, 2018
+  url: "https://github.com/SanjanaSunil/Python-Space-Invaders-Game"
+  description: Python game built using curses module to be used in terminal.
+  
+# Web Scraping Project
+- project: Web Scraping Project
+  role: Creater
+  duration: March, 2018
+  url: "https://github.com/SanjanaSunil/Web-Scraping"
+  description: Web scraping bestselling books from Amazon using Python.
+  
+# Personal Website
+- project: Personal Website
+  role: Creater
+  duration: November, 2017
+  url: "https://web.iiit.ac.in/∼sanjana.sunil/"
+  description: Personal website built using HTML, CSS, JS. 
